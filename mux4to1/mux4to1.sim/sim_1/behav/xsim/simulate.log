@@ -1,0 +1,11 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+I0=0 I1=1 I2=0 I3=1
+s1=0 s0=0 Y=0
+
+s1=0 s0=1 Y=1
+
+s1=1 s0=0 Y=0
+
+s1=1 s0=1 Y=1
+
