@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../kogge_stone.srcs/sources_1/new/kogge.v" \
+"../../../../kogge_stone.srcs/sources_1/new/node.v" \
+"../../../../kogge_stone.srcs/sources_1/new/operatn.v" \
+"../../../../kogge_stone.srcs/sources_1/new/kogge_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

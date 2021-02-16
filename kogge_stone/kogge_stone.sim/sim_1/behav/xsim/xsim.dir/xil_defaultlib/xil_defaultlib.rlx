@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/kogge.v,1613481731,verilog,,C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/node.v,,kogge,,,,,,,,
+C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/kogge_tb.v,1613481783,verilog,,,,tb,,,,,,,,
+C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/node.v,1613481302,verilog,,C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/operatn.v,,node,,,,,,,,
+C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/operatn.v,1613481283,verilog,,C:/Users/shiva/Desktop/DSD/kogge_stone/kogge_stone.srcs/sources_1/new/kogge_tb.v,,operatn,,,,,,,,
