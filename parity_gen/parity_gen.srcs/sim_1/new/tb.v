@@ -21,12 +21,14 @@
 
 
 module tb;
-    wire Y;reg [7:0] D;
-    reg x = 8'b10101010;
-    parity_chkr P(x,D,Y);
+    wire Yo,Ye,error;
+    reg [7:0] D;
+    reg [7:0] x;
+    parity_gen G(D,Ye,Yo);
+    parity_chkr P(x,D,even,Yo,Ye);
     
     initial 
-        D = 8'b00000000;
+        D = 8'b00000000;        
         always #256 D[7] = ~D[7];
         always #128 D[6] = ~D[6];
         always #64 D[5] = ~D[5];

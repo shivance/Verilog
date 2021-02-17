@@ -20,7 +20,8 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module parity_chkr(input x,input [7:0]D,output even_par_error,Yo,Ye);
+module parity_chkr(input[7:0] x,input [7:0]D,output even_par_error,Yo,Ye);
+    
     parity_gen P(D,Ye,Yo);
     assign even_par_error = (x^Ye); //even_parity error indicator
 endmodule
