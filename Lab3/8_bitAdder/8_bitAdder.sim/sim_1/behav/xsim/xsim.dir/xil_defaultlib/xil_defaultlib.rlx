@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/Adder8bit.v,1614622473,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/FA.v,,Adder8bit,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/FA.v,1614619783,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/Ripple_Adder.v,,FA,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/Ripple_Adder.v,1614619762,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/tb.v,,Ripple_Adder,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab3/8_bitAdder/8_bitAdder.srcs/sources_1/new/tb.v,1614622277,verilog,,,,tb,,,,,,,,
