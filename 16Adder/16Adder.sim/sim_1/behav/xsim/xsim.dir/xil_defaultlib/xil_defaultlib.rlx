@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/FA.v,1615707992,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/ripple.v,,FA,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/Kadder.v,1615708949,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/kogge.v,,Kadder,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/Radder.v,1615707900,verilog,,,,Radder16,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/kogge.v,1615707912,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/tb.v,,kogge,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/ripple.v,1615708044,verilog,,C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/Radder.v,,Ripple_Adder,,,,,,,,
+C:/Users/shiva/Desktop/DSDLab/Lab4/16Adder/16Adder.srcs/sources_1/new/tb.v,1615709034,verilog,,,,tb,,,,,,,,
